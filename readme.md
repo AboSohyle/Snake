@@ -2,6 +2,8 @@
 
 Welcome to the GUI Snake Game! This is a classic snake game implemented in C++ for my kids 😀.
 
+![Alt text](screenshot.png)
+
 ## Features
 
 - Classic snake gameplay
